@@ -1,5 +1,5 @@
-# khc-dbt-docs
-KHC's React based DBT Docs site.
+# React-dbt-docs
+React based DBT Docs site.
 
 ## Why though?
 One of the awesome features of [DBT](https://docs.getdbt.com/) is the [documentation site](https://www.getdbt.com/example-documentation/#!/overview) it is able to generate for your project. And for a majority of use cases the existing docs site is likely more than adequate.
