@@ -4,7 +4,7 @@ React based DBT Docs site.
 ## Why though?
 One of the awesome features of [DBT](https://docs.getdbt.com/) is the [documentation site](https://www.getdbt.com/example-documentation/#!/overview) it is able to generate for your project. And for a majority of use cases the existing docs site is likely more than adequate.
 
-However the I ran into a situation where I wanted to be able to
+However I ran into a situation where I wanted to be able to
 share a single docs site across many seperate dbt projects. This presented some challenges,
 which prompted attempts at work-arounds and finagling to get the desired results which ultimatly did not pan out. Leading me to taking a closer look into the code-base behind the existing [dbt-docs](https://github.com/dbt-labs/dbt-docs) and seeing if there was some adjustments that could be made to suite my needs.
 
